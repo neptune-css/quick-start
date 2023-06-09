@@ -1,0 +1,30 @@
+{
+  "name": "neptune-quick-start",
+  "version": "1.0.0",
+  "description": "A quick start project for Neptune CSS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neptune-css/quick-start.git"
+  },
+  "keywords": [
+    "css",
+    "neptune",
+    "css",
+    "framework",
+    "quick-start"
+  ],
+  "author": "Neptune CSS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neptune-css/quick-start/issues"
+  },
+  "homepage": "https://github.com/neptune-css/quick-start#readme",
+  "dependencies": {
+    "neptunecss": "^1.1.2",
+    "neptunecss-js": "^1.2.1"
+  }
+}

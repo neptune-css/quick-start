@@ -1,0 +1,34 @@
+:root {
+    /* Setup Accent Color */
+    --accent-hue: 190;
+
+    /* Setup Transition Duration */
+    --transition-duration: .4s;
+}
+
+body {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 1rem;
+}
+
+.logo {
+    position: relative;
+    margin-bottom: 2rem;
+    height: 12rem;
+}
+
+.button-box {
+    position: relative;
+    margin-top: 1rem;
+    min-width: 13rem;
+    width: 80%;
+    max-width: 40rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
