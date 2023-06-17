@@ -1,7 +1,6 @@
 # Neptune CSS - Quick Start
 
-![readme_banner_quickstart](https://github.com/neptune-css/quick-start/assets/122671813/eea1e862-256c-41ed-b092-d73ca339cf1e)
-
+![readme_banner_quickstart](https://github.com/neptune-css/branding-resources/blob/main/Banner/GitHub/readme_banner_quickstart.png)
 
 Welcome to the Quick Start guide for Neptune CSS framework! This README provides all the information you need to get started with Neptune CSS and quickly style your web projects.
 
