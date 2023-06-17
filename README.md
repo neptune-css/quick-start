@@ -21,7 +21,15 @@ Before getting started with Neptune CSS, make sure you have the following prereq
 
 You can install Neptune CSS using either NPM or via a CDN.
 
-### Option 1: Installation via NPM
+### Option 1: Clone repository
+
+To clone the repository, run the following command:
+
+```bash
+git clone https://github.com/neptune-css/quickstart.git
+```
+
+### Option 2: Installation via NPM
 
 To install Neptune CSS using NPM, open your terminal or command prompt and run the following command:
 
@@ -36,10 +44,20 @@ npm install neptunecss-js
 After the installation is complete, you can import Neptune CSS into your project:
 
 ```javascript
-import 'neptune-css/dist/neptune.min.css';
+import { Button } from 'path/to/your/neptune.min.css';
 ```
 
-### Option 2: CDN Integration
+Now you can use the button class like:
+
+```javascript
+const myButton = new Button({
+    // Configuration
+});
+```
+
+You can find more information [here](https://neptune-css.gitbook.io/neptune-css-docs/neptune-js).
+
+### Option 3: CDN Integration
 
 Alternatively, you can integrate Neptune CSS via a Content Delivery Network (CDN). Add the following links to the head section of your HTML file:
 
