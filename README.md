@@ -23,10 +23,18 @@ You can install Neptune CSS using either NPM or via a CDN.
 
 ### Option 1: Clone repository
 
-To clone the repository, run the following command:
+To clone the repository, run the following commands:
 
 ```bash
 git clone https://github.com/neptune-css/quickstart.git
+```
+
+```bash
+cd quickstart
+```
+
+```bash
+npm install
 ```
 
 ### Option 2: Installation via NPM
